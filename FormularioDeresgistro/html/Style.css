@@ -1,0 +1,72 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;}
+
+.heade1{
+    background-color: rgb(0, 145, 255);
+    padding: 30px;
+    margin: 20px;
+
+}    
+.formularioderegistro{
+    width: 30%;
+    border: 2px solid rgb(6, 178, 221);
+    border-radius: 5px;
+    margin:auto;
+    padding: 10px;
+    text-align: center;
+    
+    
+}
+
+.RESGISTRO{
+    margin: 10%;
+    padding: 10px;
+    text-align: center;
+
+    
+}
+.inputdiv{
+        width: 80%;
+        margin:auto;
+        margin-top: 10px;
+}
+.input{
+    width: 80%;
+    height: 20px;
+    border-radius: 5px;
+
+    }
+
+
+body{
+    background-image: url(/img/fondo.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size:cover ;
+    
+
+    
+}
+.fnacimiento{
+    width: 80%;
+    height: 20px;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 5px;
+
+}
+.BO{
+width: 20%;
+
+
+}
+footer{
+    background-color: rgb(0, 145, 255);
+    padding: 20px;
+    margin: 0px;
+    width: 100%;
+}
+
